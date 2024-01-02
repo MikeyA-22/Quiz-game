@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuizQuestion xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <QuizQuestion>
+    <Question>Where is the federal high court headquarters ?</Question>
+    <Answers>
+      <string>Shehu Shagari Way, Central District Abuja.</string>
+      <string>Three Arms Zone, Abuja</string>
+      <string>Abubakar Tafawa Balewa Way Central, Abuja</string>
+      <string>Area 8 Gashua Cl, Abuja</string>
+    </Answers>
+    <CorrectAnswer>0</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+  <QuizQuestion>
+    <Question>How many judges does the federal high court currently have?</Question>
+    <Answers>
+      <string>36</string>
+      <string>100</string>
+      <string>76</string>
+      <string>89</string>
+    </Answers>
+    <CorrectAnswer>2</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>What was the federal high court called?</Question>
+    <Answers>
+      <string>The Federal Justice Court</string>
+      <string>The Federal Revenue Court</string>
+      <string>The Federal Supreme Court</string>
+      <string>The Supreme Court</string>
+    </Answers>
+    <CorrectAnswer>1</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>When was its name changed to federal high court?</Question>
+    <Answers>
+      <string>1976</string>
+      <string>1982</string>
+      <string>1997</string>
+      <string>1979</string>
+    </Answers>
+    <CorrectAnswer>3</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>What law was used to rename the federal high court?</Question>
+    <Answers>
+      <string>Supreme Court Act 1997</string>
+      <string>Federal Justice Act 1976</string>
+      <string>Federal Revenue Act 1973</string>
+      <string>Federal Supreme Court Act 1982 </string>
+    </Answers>
+    <CorrectAnswer>2</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>What jurisdiction does the federal high court have?</Question>
+    <Answers>
+      <string>Issues of revenue of the Government of the Federation</string>
+      <string>Taxation of companies and bodies amenable to Federal taxation</string>
+      <string>Matters connected to customs and excise</string>
+      <string>All of the above</string>
+    </Answers>
+    <CorrectAnswer>3</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>who is the current chief judge of the FHC?</Question>
+    <Answers>
+      <string>Hon. Richard Wagner, P.C.</string>
+      <string>HON. Justice John T. Tsoho</string>
+      <string>HON. Justice Olukayode Ariwoola </string>
+      <string>HON. Justice Husseini Baba-Yusuf</string>
+    </Answers>
+    <CorrectAnswer>1</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>who was the first chief judge of the FHC?</Question>
+    <Answers>
+      <string>HON. Justice M.E. Anenih</string>
+      <string>HON. Justice S.C. Oriji</string>
+      <string>HON. Justice S.O. Lambo</string>
+      <string>HON. Justice O.A. Musa</string>
+    </Answers>
+    <CorrectAnswer>2</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>who was the first female judge of the FHC?</Question>
+    <Answers>
+      <string>HON. Justice Aloma Mariam Mukhtar</string>
+      <string>HON. Justice Adunola Oguntoye</string>
+      <string>HON. Justice Roseline Omotosho</string>
+      <string>Hon. Justice Atinuke Ige</string>
+    </Answers>
+    <CorrectAnswer>0</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>How many judicial divisions does the FHC have?</Question>
+    <Answers>
+      <string>22</string>
+      <string>36</string>
+      <string>37</string>
+      <string>50</string>
+    </Answers>
+    <CorrectAnswer>2</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>who was the first chief registrar of the FHC</Question>
+    <Answers>
+      <string>Oluwatoyin Bidemi Dalumo</string>
+      <string>Mr S.O Sowemimo</string>
+      <string>Ramatu Tasalla Shehu</string>
+      <string>Alh. Salisu Garba</string>
+    </Answers>
+    <CorrectAnswer>1</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>who is the current chief registrar of the FHC</Question>
+    <Answers>
+      <string>Suleiman Amida Hassan</string>
+      <string>Hajia Aisha J. Alhassan</string>
+      <string>Alh. Sidi Dauda Bage</string>
+      <string>Alh. Tanko Yusuf</string>
+    </Answers>
+    <CorrectAnswer>0</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>The Court May set aside or vary a default judgment if the defendant:</Question>
+    <Answers>
+      <string>has applied timeously to set aside or vary the judgment</string>
+      <string>has filed  a defense to the claim</string>
+      <string>has written a letter to the Chief Registrar of the Court notifying him of the default judgment</string>
+      <string>has filed a stay of execution of the judgment</string>
+    </Answers>
+    <CorrectAnswer>0</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+<QuizQuestion>
+    <Question>Where can the jurisdiction of the federal high court be found in the 1999 Constitution as amended</Question>
+    <Answers>
+      <string>Section 260 of the constitution</string>
+      <string>Section 251 of the constitution</string>
+      <string>Section 300 of the constitution</string>
+      <string>Section 230 of the constitution</string>
+    </Answers>
+    <CorrectAnswer>1</CorrectAnswer>
+    <Asked>false</Asked>
+  </QuizQuestion>
+</ArrayOfQuizQuestion>
